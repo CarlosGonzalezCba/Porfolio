@@ -6,7 +6,7 @@
 header {
   max-width: 1000%;
   padding: 1%;
-  background-color: rgb(129, 128, 138);
+  background-color: rgb(141, 151, 173);
   text-align: right;
   font-size: 100%;
 }
@@ -52,7 +52,7 @@ p {
   background: rgb(211, 208, 214);
   max-width: 1000%;
   padding: 1%;
-  background-color: rgb(118, 116, 121);
+  background-color: rgb(41, 151, 173);
   display: flex;
   justify-content: space-around;
   text-align: center;
